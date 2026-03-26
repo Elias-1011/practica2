@@ -1,5 +1,5 @@
 #include <iostream>
-#include <problema2.h>
+#include <My_libreria.h>
 #include <cstdlib>
 
 using namespace std;

@@ -1,5 +1,5 @@
-#ifndef PROBLEMA2_H
-#define PROBLEMA2_H
+#ifndef MY_LIBRERIA_H
+#define MY_LIBRERIA_H
 
 int letra_aleatoria(int max,int min);
 void generarLetras(char array[], int n);
@@ -42,4 +42,4 @@ void rotar270(int mat[5][5]);
 long long factorial(int n);
 long long caminos(int n);
 
-#endif // PROBLEMA2_H
+#endif // MY_LIBRERIA_H

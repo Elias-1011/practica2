@@ -4,8 +4,8 @@ CONFIG -= app_bundle
 CONFIG -= qt
 
 SOURCES += \
-        main.cpp \
-        problema2.cpp
+        My_libreria.cpp \
+        main.cpp
 
 HEADERS += \
-    problema2.h
+    My_libreria.h
